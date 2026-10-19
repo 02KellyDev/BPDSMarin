@@ -1,10 +1,10 @@
-# Proyecto BPDS - Lista de Tareas con Papelera
+#BPDS Project - To-Do List with Trash
 
-Aplicación web desarrollada en **Next.js** con **TypeScript** para la gestión de tareas diarias, incorporando un sistema de papelera, restauración y diseño interactivo.
+A web application developed using **Next.js** and **TypeScript** for managing daily tasks, featuring a trash system, task restoration, and an interactive design.
 
 ---
 
-## 👥 Integrantes del Equipo
+## 👥 Team Members
 
 * María Celeste Bonilla Jaraba
 * Abraham Marín Reyes
@@ -13,65 +13,65 @@ Aplicación web desarrollada en **Next.js** con **TypeScript** para la gestión 
 
 ---
 
-## ✨ Funcionalidades Principales
+## ✨ Key Features
 
-* **Creación y Edición**: Añade nuevas tareas presionando Enter y edítalas en tiempo real haciendo clic sobre ellas.
-* **Control de Estados**: Marca las tareas como completadas o pendientes mediante indicadores visuales interactivos.
-* **Nueva Papelera de Tareas**: Al eliminar una tarea, esta se almacena automáticamente en una sección inferior de papelera sin perderse por completo.
-* **Restauración y Limpieza**: Permite restaurar tareas eliminadas de vuelta a la lista principal o vaciar la papelera por completo.
+* **Creation and Editing**: Add new tasks by pressing Enter, and edit them in real-time by clicking on them.
+* **Status Management**: Mark tasks as completed or pending using interactive visual indicators.
+* **Trash System**: When a task is deleted, it is automatically moved to a "trash" section at the bottom, ensuring it isn't permanently lost.
+* **Restoration and Cleanup**: Restore deleted tasks back to the main list or clear the trash entirely.
 
 ---
 
-## 🚀 Instalación y Configuración Local
+## 🚀 Local Installation and Setup
 
-### 1. Clonar el repositorio
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/usuario/BPDS.git
-cd BPDS
+cd bpds
 ```
 
-### 2. Instalar las dependencias del proyecto
+### 2. Install project dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Ejecutar el proyecto en modo desarrollo
+### 3. Run the project in development mode
 
 ```bash
 npm run dev
 ```
 
-Una vez levantado el servidor, abre tu navegador en:
+Once the server is running, open your browser at:
 
 ```
 http://localhost:3000
 ```
 
-La aplicación se recargará automáticamente cada vez que edites algún archivo del proyecto.
+The application will automatically reload whenever you edit any of the project files.
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## 🖼️ Screenshots
 
-<!-- Reemplaza las rutas de abajo por tus imágenes reales.
-     Sube las capturas a una carpeta, por ejemplo /public/screenshots,
-     o arrástralas directamente al README en GitHub (se suben automáticamente). -->
+<!-- Replace the paths below with your current images. 
+Upload the screenshots to a folder (e.g., /public/screenshots), 
+or drag and drop them directly into the GitHub README (they will be uploaded automatically). --> -->
 
-### Vista principal de la lista de tareas
+### Task list main view
 <img width="1632" height="763" alt="image" src="https://github.com/user-attachments/assets/0cd75eca-5d15-48a9-aef3-b566b80a5b3b" />
 
 
-### Papelera de tareas
+### Task Bin
 <img width="548" height="206" alt="image" src="https://github.com/user-attachments/assets/3c0946b9-4cb1-446c-9403-276e2d97aa07" />
 
-### Edición de una tarea
+### Editing a task
 <img width="535" height="481" alt="image" src="https://github.com/user-attachments/assets/3a0ee7d8-8a47-4780-9e09-017b110f8632" />
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
 * [Next.js](https://nextjs.org)
 * [TypeScript](https://www.typescriptlang.org)
@@ -79,6 +79,6 @@ La aplicación se recargará automáticamente cada vez que edites algún archivo
 
 ---
 
-## 📄 Licencia
+## 📄License
 
-Este proyecto fue desarrollado con fines académicos para la Universidad de la Costa (CUC).
+This project was developed with fine academics for the Universidad de la Costa (CUC).
