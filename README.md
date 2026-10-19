@@ -60,14 +60,14 @@ Upload the screenshots to a folder (e.g., /public/screenshots),
 or drag and drop them directly into the GitHub README (they will be uploaded automatically). --> -->
 
 ### Task list main view
-<img width="1632" height="763" alt="image" src="https://github.com/user-attachments/assets/0cd75eca-5d15-48a9-aef3-b566b80a5b3b" />
+<img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/bee0f834-3e6a-488c-9b3f-16995fe91598" />
 
 
 ### Task Bin
-<img width="548" height="206" alt="image" src="https://github.com/user-attachments/assets/3c0946b9-4cb1-446c-9403-276e2d97aa07" />
+<img width="523" height="206" alt="image" src="https://github.com/user-attachments/assets/dcda5d25-2c46-4a1d-ba08-7c824265c751" />
 
 ### Editing a task
-<img width="535" height="481" alt="image" src="https://github.com/user-attachments/assets/3a0ee7d8-8a47-4780-9e09-017b110f8632" />
+<img width="491" height="230" alt="image" src="https://github.com/user-attachments/assets/5ad2f2cb-ba6d-48dc-906a-ffb0ccd9aec8" />
 
 ---
 
