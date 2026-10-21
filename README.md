@@ -8,7 +8,7 @@ A web application developed using **Next.js** and **TypeScript** for managing da
 
 * María Celeste Bonilla Jaraba
 * Abraham Marín Reyes
-* Jayri Nicole Bareto Polo
+* Jayri Nicole Barreto Polo
 * Andrés Camilo Zea Tarazona
 
 ---
