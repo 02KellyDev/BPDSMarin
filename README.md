@@ -7,7 +7,7 @@ A web application developed using **Next.js** and **TypeScript** for managing da
 ## 👥 Team Members
 
 * María Celeste Bonilla Jaraba
-* Abraham Marín Reyes
+* Abraham Marín 
 * Jayri Nicole Barreto Polo
 * Andrés Camilo Zea Tarazona
 
